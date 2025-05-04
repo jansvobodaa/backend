@@ -1,0 +1,22 @@
+[ {
+  "id": "1",
+  "name": "Jasmine Green Tea",
+  "stock": 120,
+  "price": 599,
+  "notes": []
+},
+{
+  "id": "2",
+  "name": "Earl Grey",
+  "stock": 80,
+  "price": 649,
+  "notes": []
+},
+{
+  "id": "3",
+  "name": "Chamomile Herbal Tea",
+  "stock": 60,
+  "price": 499,
+  "notes": []
+}
+]
